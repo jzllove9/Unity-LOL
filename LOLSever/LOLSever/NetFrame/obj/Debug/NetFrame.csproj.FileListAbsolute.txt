@@ -1,0 +1,5 @@
+D:\JiaZLSoftware\Unity Prj\LOLSever\LOLSever\NetFrame\bin\Debug\NetFrame.dll
+D:\JiaZLSoftware\Unity Prj\LOLSever\LOLSever\NetFrame\bin\Debug\NetFrame.pdb
+D:\JiaZLSoftware\Unity Prj\LOLSever\LOLSever\NetFrame\obj\Debug\NetFrame.dll
+D:\JiaZLSoftware\Unity Prj\LOLSever\LOLSever\NetFrame\obj\Debug\NetFrame.pdb
+D:\JiaZLSoftware\Unity Prj\LOLSever\LOLSever\NetFrame\obj\Debug\NetFrame.csprojResolveAssemblyReference.cache

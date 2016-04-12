@@ -1,0 +1,9 @@
+D:\JiaZLSoftware\Unity Prj\LOLSever\LOLSever\LOLSever\bin\Debug\LOLSever.exe
+D:\JiaZLSoftware\Unity Prj\LOLSever\LOLSever\LOLSever\bin\Debug\LOLSever.pdb
+D:\JiaZLSoftware\Unity Prj\LOLSever\LOLSever\LOLSever\bin\Debug\NetFrame.dll
+D:\JiaZLSoftware\Unity Prj\LOLSever\LOLSever\LOLSever\bin\Debug\NetFrame.pdb
+D:\JiaZLSoftware\Unity Prj\LOLSever\LOLSever\LOLSever\obj\Debug\LOLSever.csprojResolveAssemblyReference.cache
+D:\JiaZLSoftware\Unity Prj\LOLSever\LOLSever\LOLSever\obj\Debug\LOLSever.exe
+D:\JiaZLSoftware\Unity Prj\LOLSever\LOLSever\LOLSever\obj\Debug\LOLSever.pdb
+D:\JiaZLSoftware\Unity Prj\LOLSever\LOLSever\LOLSever\bin\Debug\Protocol.dll
+D:\JiaZLSoftware\Unity Prj\LOLSever\LOLSever\LOLSever\bin\Debug\Protocol.pdb

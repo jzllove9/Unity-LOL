@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9AA44E4A-5EE7-DC45-E0BB-D66EF62A6B1E}") = "LOLTest", "Assembly-CSharp.csproj", "{CA80A8B4-D1F5-C4CA-DD1B-584AB048D118}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA80A8B4-D1F5-C4CA-DD1B-584AB048D118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA80A8B4-D1F5-C4CA-DD1B-584AB048D118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA80A8B4-D1F5-C4CA-DD1B-584AB048D118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA80A8B4-D1F5-C4CA-DD1B-584AB048D118}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

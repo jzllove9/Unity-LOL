@@ -1,0 +1,5 @@
+D:\JiaZLSoftware\Unity Prj\LOLSever\LOLSever\Protocol\bin\Debug\Protocol.dll
+D:\JiaZLSoftware\Unity Prj\LOLSever\LOLSever\Protocol\bin\Debug\Protocol.pdb
+D:\JiaZLSoftware\Unity Prj\LOLSever\LOLSever\Protocol\obj\Debug\Protocol.dll
+D:\JiaZLSoftware\Unity Prj\LOLSever\LOLSever\Protocol\obj\Debug\Protocol.pdb
+D:\JiaZLSoftware\Unity Prj\LOLSever\LOLSever\Protocol\obj\Debug\Protocol.csprojResolveAssemblyReference.cache
